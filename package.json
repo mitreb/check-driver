@@ -1,6 +1,6 @@
 {
   "name": "check-driver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Downloads driver by url and check it.",
   "repository": {
     "type": "git",
